@@ -1,2 +1,2 @@
-Registration Form
-using jdbc and crating database in mysql
+# Registration Form
+using jdbc and creating database in mysql
